@@ -3,6 +3,6 @@
       "builder": "NIXPACKS"
     },
     "deploy": {
-      "startCommand": "echo 'Serving static files...'"
+      "startCommand": "npm start"
     }
   }
